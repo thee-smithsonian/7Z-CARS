@@ -376,9 +376,6 @@ h5 {
       margin-left: 0;
       margin-left: 0;
       }
-      .paracard {
-        font-size: 1rem;
-      }
       .buttons button {
       color: whitesmoke;
       background-color: black;
@@ -420,7 +417,7 @@ h5 {
         margin-left: 25%;
     }
     h4 {
-        font-size: 2rem;
+        font-size: 1rem;
     }
 }
 
